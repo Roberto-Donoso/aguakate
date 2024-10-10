@@ -1,0 +1,17 @@
+
+   table, th, td{
+
+ border: 2px solid rgb(255, 10, 10);
+ border-collapse: collapse; 
+ text-align: center; 
+}
+th, td{
+    padding: 10px;
+}
+th{
+    background-color: #ffb700;
+}
+td {
+    background-color: #ffe2c1;
+}
+
